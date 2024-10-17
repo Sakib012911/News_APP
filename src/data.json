@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 370,
+    "articles": [
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Space balloon for tourists set for landmark test flight",
+            "description": "A “space balloon” for tourists is set for a test flight in Saudi Arabia this September. Spanish startup Halo Space built the balloon for zero-emission trips into the stratosphere. Each ticket is expected to cost around €150,000. On each flight, Halo plans to …",
+            "url": "https://thenextweb.com/news/halo-space-balloon-test-flight-saudi-arabia",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F04%2FUntitled-design.jpg&signature=8914f883f8db0f016a3105ad629ce90e",
+            "publishedAt": "2024-08-07T13:19:31Z",
+            "content": "A space balloon for tourists is set for a test flight in Saudi Arabia this September.\r\nSpanish startup Halo Space built the balloon for zero-emission trips into the stratosphere. Each ticket is expec… [+1466 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Database startup Neon nabs a Microsoft investment",
+            "description": "In a sign that big tech companies are ready and willing to shell out cash for database tech, Neon, a startup building an open source alternative to AWS...",
+            "url": "https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/H6I9mUufAE.f0g1iGQPuDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MjA-/https://media.zenfs.com/en/techcrunch_350/cfaca3dd19e8ccdce4ecb794e08654ac",
+            "publishedAt": "2024-08-07T13:00:00Z",
+            "content": "In a sign that big tech companies are ready and willing to shell out cash for database tech, Neon, a startup building an open source alternative to AWS Aurora Postgres, on Wednesday announced that Mi… [+3627 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "Ex-Clubhouse employees take another swing at a social networking startup",
+            "description": "Maya Watson and Lexi Nisita, cofounders of a new social app called why?!, met when they both worked at Netflix.  The duo moved on to Clubhouse where Watson...",
+            "url": "https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/",
+            "urlToImage": "https://media.zenfs.com/en/techcrunch_350/0756b2ec84c836fc50766914dc4430a9",
+            "publishedAt": "2024-08-07T12:00:00Z",
+            "content": "Maya Watson and Lexi Nisita, cofounders of a new social app called why?!, met when they both worked at Netflix. They had one of those friendly co-worker relationships, where they laughed, and just vi… [+3599 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash",
+            "description": "New York-based fintech Payoneer has acquired Skuad, a Singapore-based global HR and payroll startup, for $61 million in cash, the company exclusively told TechCrunch.  Payoneer said it could also pay up to another $10 million, contingent on if Skuad meets var…",
+            "url": "https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/Sundeep-Sahi_23-10-10_0518.jpg?resize=1200,800",
+            "publishedAt": "2024-08-07T11:30:00Z",
+            "content": "New York-based fintech Payoneer has acquired Skuad, a Singapore-based global HR and payroll startup, for $61 million in cash, the company exclusively told TechCrunch. \r\nPayoneer said it could also pa… [+3680 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Off the back of US strike, UK union sets minimum pay for video game performers",
+            "description": "No one was surprised when British actor Neil Newbon won the “Best Performance” category at The Game Awards last year for his role as Astarion in Baldur’s Gate 3 — beating Hollywood royalty Idris Elba’s appearance in Cyberpunk 2077: Phantom Liberty. (However, …",
+            "url": "https://thenextweb.com/news/us-video-game-strike-uk-equity-minimum-pay-performers",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FEquity-campaign-image-e1723024614516.jpeg&signature=0bc31038cb7669ebcaefb0c4e14ec22f",
+            "publishedAt": "2024-08-07T11:12:44Z",
+            "content": "No one was surprised when British actor Neil Newbon won the Best Performance category at The Game Awards last year for his role as Astarion in Baldurs Gate 3 beating Hollywood royalty Idris Elbas app… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Elon Musk's X taken to court in Ireland for grabbing EU user data to train Grok without consent | TechCrunch",
+            "description": "Elon Musk's X is being taken to court in Ireland for using Europeans' data to train AI models without asking for their consent.",
+            "url": "https://techcrunch.com/2024/08/07/elon-musks-x-taken-to-court-in-ireland-for-grabbing-eu-user-data-to-train-grok-without-consent/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2158243805.jpg?resize=1200,675",
+            "publishedAt": "2024-08-07T10:07:21Z",
+            "content": "Elon Musk’s X is being taken to court in Ireland for using Europeans’ data to train AI models, RTE reported late on Tuesday. The development relates to the social media platform’s decision last month… [+4935 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Depop and Selfridges are stitching AI analytics into second-hand fashion",
+            "description": "Depop and Selfridges are sewing an AI thread into their clothes. The fashion retailers have enlisted British startup Kelp Technologies to analyse market trends and prices of second-hand apparel. Kelp — aka Truss — will apply AI to automatically assess items o…",
+            "url": "https://thenextweb.com/news/ai-analyses-depop-selfridges-second-hand-fashion",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FUntitled-design-2.jpg&signature=edddde210b8b3d6119b4f67560da52cb",
+            "publishedAt": "2024-08-07T10:01:46Z",
+            "content": "Depop and Selfridges are sewing an AI thread into their clothes.\r\nThe fashion retailers have enlisted British startup Kelp Technologies to analyse market trends and prices of second-hand apparel.\r\nKe… [+2057 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching 'experiences' | TechCrunch",
+            "description": "Airbnb CEO Brian Chesky suggested on Tuesday's Q2 earnings call with investors that the company will soon expand into new products and services, including",
+            "url": "https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1052001922.jpg?w=1024",
+            "publishedAt": "2024-08-07T09:15:38Z",
+            "content": "Airbnb CEO Brian Chesky suggested on Tuesday’s Q2 earnings call with investors that the company will soon expand into new products and services, including co-hosting, a relaunch of Airbnb’s “experien… [+1928 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "EQT takes a majority stake in cybersecurity firm Acronis at a $3.5B+ valuation",
+            "description": "Cybersecurity remains a white-hot space for investors, and in the latest deal, EQT is taking a majority stake in Acronis, a security company that specializes...",
+            "url": "https://techcrunch.com/2024/08/07/eqt-takes-a-majority-stake-in-cybersecurity-firm-acronis-at-a-3-5b-valuation/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tikocG5QxXkh5Wi5XTPVYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODY-/https://media.zenfs.com/en/techcrunch_350/fb56318e0722720c262184e41e1939ca",
+            "publishedAt": "2024-08-07T07:26:48Z",
+            "content": "Cybersecurity remains a white-hot space for investors, and in the latest deal, EQT is taking a majority stake in Acronis, a security company that specializes in data protection, cloud and integrated … [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-Okafor",
+            "title": "Jumia plans to raise more than $100 million in secondary shares to drive stalled user growth",
+            "description": "African e-commerce company Jumia is selling 20 million American depositary shares over the next couple of weeks, TechCrunch has learned.  Given Jumia’s share...",
+            "url": "https://techcrunch.com/2024/08/06/jumia-plans-to-raise-more-than-100-million-in-secondary-shares-to-drive-stalled-user-growth/",
+            "urlToImage": "https://media.zenfs.com/en/techcrunch_350/d9550e544039315a64071ca0c26b3754",
+            "publishedAt": "2024-08-06T23:00:38Z",
+            "content": "African e-commerce company Jumia is selling 20 million American depositary shares over the next couple of weeks, TechCrunch has learned. The at-the-market transaction is to take advantage of strong r… [+4897 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Reddit to test AI-powered search result pages",
+            "description": "Reddit users will soon see AI-generated summaries at the top of search results.  Reddit CFO Drew Vollero told investors during its earnings call on Tuesday...",
+            "url": "https://techcrunch.com/2024/08/06/reddit-ai-powered-search-results/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V9hZzhy5BdUw8bV5wY1GHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/techcrunch_350/d10836275479bf88b2685ad0605ceb9d",
+            "publishedAt": "2024-08-06T22:10:28Z",
+            "content": "Reddit users will soon see AI-generated summaries at the top of search results.\r\nReddit CFO Drew Vollero told investors during its earnings call on Tuesday that the company plans to test AI-powered s… [+1370 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'Kane",
+            "title": "Rivian lost $1.46 billion in Q2 as it drives towards a VW-linked future",
+            "description": "Rivian's financial losses have crept up as it pushed out the last of its first-generation R1 trucks and SUVs in favor of newer, more cost efficient versions ...",
+            "url": "https://techcrunch.com/2024/08/06/rivian-lost-1-46-billion-in-q2-as-it-drives-towards-a-vw-linked-future/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TwO1wHb2F4tZbof8Ja5ZSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/techcrunch_350/ba4d367030e5cc2cbf8c1d0cf65d3d7f",
+            "publishedAt": "2024-08-06T20:28:43Z",
+            "content": "Rivian's financial losses have crept up as it pushed out the last of its first-generation R1 trucks and SUVs in favor of newer, more cost efficient versions -- a sign of just how much the company cou… [+1778 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Waymo expands robotaxi coverage in Los Angeles and San Francisco | TechCrunch",
+            "description": "Waymo, the Alphabet-owned self-driving car company, is adding another 10 square miles to its robotaxi service area to include cities surrounding San",
+            "url": "https://techcrunch.com/2024/08/06/waymo-expands-robotaxi-coverage-in-los-angeles-and-san-francisco/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1247366993.jpg?resize=1200,633",
+            "publishedAt": "2024-08-06T18:41:56Z",
+            "content": "Waymo, the Alphabet-owned self-driving car company, is adding another 10 square miles to its robotaxi service area to include cities surrounding San Francisco. \r\nThe move, which adds Daly City, Broad… [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Dawn Aerospace's rocket-propelled aircraft takes flight",
+            "description": "Dawn Aerospace’s rocket-powered aircraft soared to new heights in its latest test campaign, as the company looks to build what could be the highest...",
+            "url": "https://techcrunch.com/2024/08/06/dawn-aerospace/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3_WmsHINvv_9V_uK1XBhyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/ac28a991e191173ffe5d180eb8d1292e",
+            "publishedAt": "2024-08-06T18:00:00Z",
+            "content": "Dawn Aerospaces rocket-powered aircraft soared to new heights in its latest test campaign, as the company looks to build what could be the highest-performance aircraft to take off from a runway.\r\nThe… [+3962 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Europe’s most valuable fintech, and which startups became unicorns this year",
+            "description": "Welcome to TechCrunch Fintech! This week, we’re looking at Revolut’s reported valuation hike, fintech unicorns, the Disrupt Fintech Stage, and more. To get a roundup of TechCrunch’s biggest and most important fintech stories delivered to your inbox every Tues…",
+            "url": "https://techcrunch.com/2024/08/06/europes-most-valuable-fintech-and-which-startups-became-unicorns-this-year/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1090844164.jpg?resize=1200,786",
+            "publishedAt": "2024-08-06T17:05:00Z",
+            "content": "Welcome to TechCrunch Fintech! This week, were looking at Revoluts reported valuation hike, fintech unicorns, the Disrupt Fintech Stage, and more.\r\nTo get a roundup of TechCrunchs biggest and most im… [+4436 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Bluesky adds Techdirt founder Mike Masnick to its board",
+            "description": "According to a company blog post, the team was already leaning on Masnick for advice, so adding him to the board is a \"natural next step\" in formalizing their relationship.\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+            "url": "https://techcrunch.com/2024/08/06/bluesky-adds-techdirt-founder-mike-masnick-to-its-board/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/bluesky-004.jpg?resize=1200,675",
+            "publishedAt": "2024-08-06T16:57:48Z",
+            "content": "Decentralized X competitor Bluesky, a startup offering a social network where users can choose their own algorithm and moderation services, announced on Monday the addition of a new board member, Mik… [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Amazon Music's new AI feature lets you browse podcast episodes by topic  | TechCrunch",
+            "description": "Amazon Music announced Tuesday the launch of its new AI-powered feature, “Topics,” which allows users to explore podcast episodes by specific topics Amazon Music's new AI-powered feature, “Topics,” allows users to explore podcast episodes by specific topics d…",
+            "url": "https://techcrunch.com/2024/08/06/amazon-music-ai-feature-podcast-episodes-topics/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/AmazonMusic.jpg?w=1200",
+            "publishedAt": "2024-08-06T16:28:23Z",
+            "content": "Amazon Music announced Tuesday the launch of its new AI-powered feature, Topics, which allows users to explore podcast episodes by specific topics discussed in the episode. \r\nWhen you visit the page … [+1335 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Apple Intelligence’s writing tools stumble on swears and controversial topics",
+            "description": "Apple's Writing Tools feature will show a message notifying you that AI-generated suggestions might not be of the highest quality when tackling certain topics.\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+            "url": "https://techcrunch.com/2024/08/06/apple-intelligences-writing-tools-stumble-on-swears-and-controversial-topics/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2156422057.jpg?resize=1200,794",
+            "publishedAt": "2024-08-06T16:00:09Z",
+            "content": "Apple gave users the first real taste of its Apple Intelligence features with the release of the iOS 18.1 developer beta last month. Writing Tools, which lets you reformat or rewrite text using Apple… [+2040 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Flighty’s popular flight-tracking app can now predict delays using machine learning",
+            "description": "Popular flight tracking app Flighty is releasing a new version on Tuesday that uses machine learning and aviation authority data to provide early warnings of delays and give users the exact reason behind delays.  With the launch of Flight 4.0, the app tracks …",
+            "url": "https://techcrunch.com/2024/08/06/flightys-popular-flight-tracking-app-can-now-predict-delays-using-machine-learning/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/flighty-app.png?resize=1200,675",
+            "publishedAt": "2024-08-06T16:00:00Z",
+            "content": "Popular flight tracking appFlighty is releasing a new version on Tuesday that uses machine learning and aviation authority data to provide early warnings of delays and give users the exact reason beh… [+2526 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "X files antitrust suit against advertising groups over ‘systematic illegal boycott’",
+            "description": "X CEO Linda Yaccarino Tuesday announced that the social media platform has filed an antitrust lawsuit against the Global Alliance for Responsible Media",
+            "url": "https://techcrunch.com/2024/08/06/x-files-suit-against-advertising-groups-over-systematic-illegal-boycott/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1975313532.jpg?resize=1200,675",
+            "publishedAt": "2024-08-06T15:25:10Z",
+            "content": "X CEO Linda Yaccarino Tuesday announced that the social media platform has filed an antitrust lawsuit against the Global Alliance for Responsible Media (GARM) and the World Federation of Advertisers … [+1842 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Cyberattack knocks Mobile Guardian MDM offline and wipes thousands of student devices",
+            "description": "A cyberattack on Mobile Guardian, a U.K.-based provider of educational device management software, has sparked outages at schools across the world and left...",
+            "url": "https://techcrunch.com/2024/08/06/cyberattack-knocks-mobile-guardian-mdm-offline-and-wipes-thousands-of-student-devices/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x.kEY0x7QWdENHrL0W4WIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjY-/https://media.zenfs.com/en/techcrunch_350/781d5584e1ffc4b21e63907a9abbe827",
+            "publishedAt": "2024-08-06T15:05:30Z",
+            "content": "A cyberattack on Mobile Guardian, a U.K.-based provider of educational device management software, has sparked outages at schools across the world and left thousands of students unable to access thei… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "TechCrunch Events",
+            "title": "Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024",
+            "description": "Are you a Series A to B startup looking to make a significant impact in the tech world?  The ScaleUp Startups Exhibitor Program at TechCrunch Disrupt 2024 is...",
+            "url": "https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wkN1DgovknPZn8y5KQi6sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://media.zenfs.com/en/techcrunch_350/cb99ded97a6e92f3c2c0bb2fe4a0647f",
+            "publishedAt": "2024-08-06T15:00:00Z",
+            "content": "Are you a Series A to B startup looking to make a significant impact in the tech world? The ScaleUp Startups Exhibitor Program at TechCrunch Disrupt 2024 is your gateway to success. This program is d… [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Breaking up Google would offer a chance to remodel the web",
+            "description": "Just for a minute, as we digest the information that Google has been found to operate an illegal monopoly, can you imagine a web without Google? An internet without Google Search, Chrome, Gmail, Maps and so on would — very obviously — be a different place. Bu…",
+            "url": "https://techcrunch.com/2024/08/06/breaking-up-google-would-offer-a-chance-to-remodel-the-web/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-147367649.jpg?resize=1200,791",
+            "publishedAt": "2024-08-06T14:54:43Z",
+            "content": "Just for a minute, as we digest the information that Google has been found to operate an illegal monopoly, can you imagine a web without Google? An internet without Google Search, Chrome, Gmail, Maps… [+13539 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Report: Sweden’s startup ecosystem retains EU lead, but loses momentum",
+            "description": "Sweden remains the leading startup ecosystem in the EU, second only to the UK in Europe as a whole. That’s according to this year’s Global Startup Ecosystem Index Report by StartupBlink. In the past decade, the Nordic nation has emerged as one of the world’s …",
+            "url": "https://thenextweb.com/news/sweden-best-startup-ecosystem-eu-but-losing-momentum",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FUntitled-design-15.jpg&signature=97f1cce326bd7153e331285639aab6fc",
+            "publishedAt": "2024-08-06T14:30:26Z",
+            "content": "Sweden remains the leading startup ecosystem in the EU, second only to the UK in Europe as a whole.\r\nThats according to this years Global Startup Ecosystem Index Report by StartupBlink.\r\nIn the past … [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "MuukTest is putting GenAI at the center of software QA testing",
+            "description": "Every piece of software needs to go through software quality assurance testing.  It usually involves a human tester creating a series of test cases, and then...",
+            "url": "https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7OLEF1JJWcSTfD0C0LdIYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDQ-/https://media.zenfs.com/en/techcrunch_350/65aaca4ca25b1a128e96401c60b0e9e9",
+            "publishedAt": "2024-08-06T14:04:02Z",
+            "content": "Every piece of software needs to go through software quality assurance testing. It usually involves a human tester creating a series of test cases, and then checking the software interface for bugs a… [+3152 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Terra Quantum wins US Air Force contract for quantum-resistant network study",
+            "description": "Swiss startup Terra Quantum announced today it has landed a contract to embark on a study with the US Air Force for a network utilising post-quantum cryptography, quantum key distribution, and quantum random number generators.  Terra Quantum is the recipient …",
+            "url": "https://thenextweb.com/news/terra-quantum-us-air-force-contract",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2Fquantum-secure-network-e1722952454957.jpg&signature=4f9900fa47dd02d54725894d3f9c9ebf",
+            "publishedAt": "2024-08-06T13:54:28Z",
+            "content": "Swiss startup Terra Quantum announced today it has landed a contract to embark on a study with the US Air Force for a network utilising post-quantum cryptography, quantum key distribution, and quantu… [+4395 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "AI-powered water heater could banish cold showers and carbon pollution",
+            "description": "Cala Systems’ water heater pairs an advanced heat pump with an AI-powered control system to forecast hot water demand.",
+            "url": "https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1368214406.jpeg?resize=1200,800",
+            "publishedAt": "2024-08-06T13:05:08Z",
+            "content": "Chances are youve been there: Your formerly hot shower suddenly turns cold, darkening your mood in the process. \r\nMaybe someone in your household took an extra shower or you did a few too many loads … [+4858 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Hyperspace is building custom instances to accelerate database searches",
+            "description": "The growth in the demand for generative AI apps has led to a need for larger and larger databases to store the associated data (e.g.  Often, companies are...",
+            "url": "https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V7mYzA4abNJVWvRYbZk8sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/82c3bd4076630ff30e9e01bce4ede9c5",
+            "publishedAt": "2024-08-06T13:00:00Z",
+            "content": "The growth in the demand for generative AI apps has led to a need for larger and larger databases to store the associated data (e.g. model training data). These databases tend to be resource-intensiv… [+3457 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "German computer scientists raise $30 million to help companies make sense of their data | TechCrunch",
+            "description": "A startup called KNIME offers a growing portfolio of tools to automate data analytics work -- and these services have proven to be quite lucrative.",
+            "url": "https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1283371967.jpg?resize=1200,800",
+            "publishedAt": "2024-08-06T12:03:40Z",
+            "content": "It’s not easy for organizations to become data-driven, despite the aspirations many have to get there. Even orgs with data analytics teams often struggle to make effective use of their data. Accordin… [+3618 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "GrubMarket has acquired Good Eggs",
+            "description": "More consolidation is taking place in the world of online food delivery.  TechCrunch has learned and confirmed that GrubMarket -- the startup backed by Tiger...",
+            "url": "https://techcrunch.com/2024/08/06/grubmarket-has-acquired-good-eggs/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4Ksx4WcF19ip9LM.PFPqXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/cd950d38fdbbc5d9ecc1b580c79313cc",
+            "publishedAt": "2024-08-06T09:08:52Z",
+            "content": "More consolidation is taking place in the world of online food delivery. TechCrunch has learned and confirmed that GrubMarket -- the startup backed by Tiger Global, among others, that has quietly bui… [+4136 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "Philosophy is crucial in the age of AI",
+            "description": "New scientific understanding and engineering techniques have always impressed and frightened. No doubt they will continue to do so. OpenAI recently announced that it anticipates “superintelligence” — AI surpassing human abilities — this decade. It is accordin…",
+            "url": "https://thenextweb.com/news/philosophy-is-crucial-in-the-age-of-ai",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FDesigner.jpeg&signature=b89054e8d5363ed9c6939c9914419906",
+            "publishedAt": "2024-08-06T08:32:07Z",
+            "content": "New scientific understanding and engineering techniques have always impressed and frightened. No doubt they will continue to do so. OpenAI recently announced that it anticipates superintelligence AI … [+6505 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "UK's Riverlane scores $75M to correct quantum errors | TechCrunch",
+            "description": "Quantum computing may still largely be in the theoretical domain, but the money that it’s attracting is very real.",
+            "url": "https://techcrunch.com/2024/08/05/uks-riverlane-scores-75m-to-correct-quantum-errors/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1393513219.jpg?resize=1200,568",
+            "publishedAt": "2024-08-06T06:41:11Z",
+            "content": "Quantum computing may still largely be in the theoretical domain, but the money that its attracting is very real. Riverlane, a specialist in quantum error correction technology, has raised $75 millio… [+4485 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "‘Switzerland of quantum computing’ raises $75M for error-correction chip",
+            "description": "UK-based Riverlane announced today it has secured $75mn in Series C funding to meet “surging global demand” for quantum error correction — and propel it on its path toward 1 million error-free quantum operations by 2026.  Quantum technologies hold the potenti…",
+            "url": "https://thenextweb.com/news/riverlane-quantum-computing-error-correction-chip-series-c-75-million-dollars",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FRiverlane-leadership-photo-e1722870833319.jpg&signature=06691f6675011a0e21d90eded51cef41",
+            "publishedAt": "2024-08-06T06:00:03Z",
+            "content": "UK-based Riverlane announced today it has secured $75mn in Series C funding to meet surging global demand for quantum error correction and propel it on its path toward 1 million error-free quantum op… [+4562 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jagmeet Singh",
+            "title": "India's EtherealX puts $5M seed toward fully reusable launch vehicles",
+            "description": "EtherealX, an Indian space startup, has raised $5 million in a seed funding round as it plans to develop fully reusable medium-lift launch vehicles, making...",
+            "url": "https://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles/",
+            "urlToImage": "https://media.zenfs.com/en/techcrunch_350/0d3ca392193ed9f2caf84f3acbeecc87",
+            "publishedAt": "2024-08-06T04:30:00Z",
+            "content": "EtherealX, an Indian space startup, has raised $5 million in a seed funding round as it plans to develop fully reusable medium-lift launch vehicles, making satellite launches cost-effective and time-… [+5659 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'kane",
+            "title": "Lucid pumps $1.5B from Saudi wealth fund after CEO warned relying on its 'bottomless wealth' was 'dangerous' | TechCrunch",
+            "description": "Saudi Arabia is committing even more money to Lucid Motors as the EV startup struggles to erase its losses. Lucid announced Monday as part of its",
+            "url": "https://techcrunch.com/2024/08/05/lucid-motors-funding-saudi-arabia-q2-earnings/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/lucid-air-sedan.jpg?resize=1200,730",
+            "publishedAt": "2024-08-05T21:02:19Z",
+            "content": "Saudi Arabia is committing even more money to Lucid Motors as the EV startup struggles to erase its losses. Lucid announced Monday as part of its second-quarter earnings report that an affiliate of t… [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "OpenAI tempers expectations with less bombastic, GPT-5-less DevDay this fall",
+            "description": "Last year, OpenAI held a splashy press event in San Francisco during which the company announced a bevy of new products and tools, including the ill-fated...",
+            "url": "https://techcrunch.com/2024/08/05/openai-tempers-expectations-with-less-bombastic-gpt-5-less-devday-this-fall/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p13PifryVGapTctH4Pg3Cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/8f429c8b504acc4d1fc4a02a910e2287",
+            "publishedAt": "2024-08-05T20:09:05Z",
+            "content": "Last year, OpenAI held a splashy press event in San Francisco during which the company announced a bevy of new products and tools, including the ill-fated App Store-like GPT Store.\r\nThis year will be… [+2638 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Placer.ai boosts valuation to $1.5B after quietly raising another $75M",
+            "description": "Location data, for better or worse, continues to be a part of the bedrock of how apps are built.  Now a startup developing AI market research based on that...",
+            "url": "https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i.cnkTHokaQh0iS94F1_GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/3366b7cd840a00582aaeb33496e7630f",
+            "publishedAt": "2024-08-05T17:25:47Z",
+            "content": "Location data, for better or worse, continues to be a part of the bedrock of how apps are built. Now a startup developing AI market research based on that location data, Placer.ai, has quietly raised… [+4556 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "YouTuber files class action suit over OpenAI's scrape of creators' transcripts | TechCrunch",
+            "description": "A YouTube creator is looking to file a class action lawsuit against OpenAI for allegedly training on transcripts of YouTube videos without permission.",
+            "url": "https://techcrunch.com/2024/08/05/youtuber-files-class-action-suit-over-openais-scrape-of-creators-transcripts/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color.jpg?resize=1200,675",
+            "publishedAt": "2024-08-05T16:35:20Z",
+            "content": "A YouTube creator is seeking to bring a class action lawsuit against OpenAI, alleging that the company trained its generative AI models on millions of transcripts from YouTube videos without notifyin… [+4351 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "TechCrunch Minute: The iPad was the surprising star of Apple’s sales numbers",
+            "description": "For once, the iPad was the highlight of Apple’s latest sales numbers. The company said in its third-quarter earnings report that iPad sales increased year-over-year, from $5.8 billion to $7.2 billion. The reason for that growth is probably new versions of the…",
+            "url": "https://techcrunch.com/video/techcrunch-minute-the-ipad-was-the-surprising-star-of-apples-sales-numbers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/YouTube-Thumb-Text-3.png?resize=1200,675",
+            "publishedAt": "2024-08-05T16:00:00Z",
+            "content": "For once, the iPad was the highlight of Apples latest sales numbers.\r\nThe company said in its third-quarter earnings report that iPad sales increased year-over-year, from $5.8 billion to $7.2 billion… [+773 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Minds are ‘not currency for social media,’ says EU as TikTok kills Lite Rewards",
+            "description": "TikTok will permanently withdraw its controversial Lite Rewards programme in the EU to comply with the Digital Services Act (DSA) — a sweeping content moderation rulebook for online platforms. TikTok Lite is the data-light version of the app, designed to work…",
+            "url": "https://thenextweb.com/news/tiktok-kills-lite-rewards-eu",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-8.jpg&signature=c6166cfb742d41a3aae713cdb39aa7ab",
+            "publishedAt": "2024-08-05T14:14:29Z",
+            "content": "TikTok will permanently withdraw its controversial Lite Rewards programme in the EU to comply with the Digital Services Act (DSA) a sweeping content moderation rulebook for online platforms.\r\nTikTok … [+1770 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "AWS launches Mithra to identify and mitigate malicious domains across its massive system | TechCrunch",
+            "description": "When a company is the size of Amazon, a lot of bad actors will come after it and its customers, which makes defending the network a monster job. Over the",
+            "url": "https://techcrunch.com/2024/08/05/aws-launches-mithra-to-identify-and-mitigate-malicious-domains/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_4752.jpg?resize=1200,797",
+            "publishedAt": "2024-08-05T13:02:37Z",
+            "content": "When a company is the size of Amazon, a lot of bad actors will come after it and its customers, which makes defending the network a monster job. Over the years Amazon has developed a number of strate… [+3930 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "TechCrunch",
+            "title": "Tesla Dojo: Elon Musk's big plan to build an AI supercomputer, explained",
+            "description": "Filed under:\n Green,Tesla,Technology,Autonomous Vehicles\n Continue reading Tesla Dojo: Elon Musk's big plan to build an AI supercomputer, explained\nTesla Dojo: Elon Musk's big plan to build an AI supercomputer, explained originally appeared on Autoblog on Mon…",
+            "url": "https://techcrunch.com/2024/08/03/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/",
+            "urlToImage": "https://edgecast-img.yahoo.net/mysterio/api/CAEA97B26EB4644A646023D070889939E77ECE4604FEE5D5CB65D3C0A16C9FC9/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/08/05083609/in_this_photo_illustration__a_tesla_logo_is_displayed_on_a___.jpeg",
+            "publishedAt": "2024-08-05T12:37:00Z",
+            "content": "For years, Elon Musk has talked about Dojo the AI supercomputer that will be the cornerstone of Teslas AI ambitions. Its important enough to Musk that he recently said the companys AI team is going t… [+13076 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "AI chip startup Groq lands $640M to challenge Nvidia | TechCrunch",
+            "description": "Groq, a startup developing custom chips for running generative AI workloads, has raised $640 million in new funds at a $2.8 billion valuation.",
+            "url": "https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1216725141.jpg?w=1000",
+            "publishedAt": "2024-08-05T11:08:07Z",
+            "content": "Groq, a startup developing chips to run generative AI models faster than conventional processors, said on Monday that it’s raised $640 million in a new funding round led by Blackrock. Neuberger Berma… [+5633 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "ADHD app launches ‘lifeline’ to treatment, calls for healthcare reforms",
+            "description": "A new app hopes to provide a “lifeline” to the 2.5 million people in the UK with ADHD. Cog ADHD combines access to specialists with in-app treatment tools. The system is the brainchild of Dom Longford, who founded Cog ADHD after enduring his own struggles wit…",
+            "url": "https://thenextweb.com/news/cog-adhd-app-launches",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FUntitled-design-1.jpg&signature=3ed3420ea932bce3c47f0e2fbccdb3eb",
+            "publishedAt": "2024-08-05T08:00:14Z",
+            "content": "A new app hopes to provide a lifeline to the 2.5 million people in the UK with ADHD.\r\nCog ADHD combines access to specialists with in-app treatment tools. The system is the brainchild of Dom Longford… [+3117 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+            "description": "Despite increasing demand for AI safety and accountability, today's tests and benchmarks may fall short, according to a new report. Generative AI models",
+            "url": "https://techcrunch.com/2024/08/04/many-safety-evaluations-for-ai-models-have-significant-limitations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1474155562.jpg?resize=1200,713",
+            "publishedAt": "2024-08-04T18:15:28Z",
+            "content": "Despite increasing demand for AI safety and accountability, today’s tests and benchmarks may fall short, according to a new report.\r\nGenerative AI models — models that can analyze and output text, im… [+6713 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT",
+            "description": "OpenAI has built a tool that could potentially catch students who cheat by asking ChatGPT to write their assignments — but according to The Wall Street...",
+            "url": "https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WvCcuHGe4b1hpoW2IPRxaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/d5640b1d6253a45503c124b15c28bbce",
+            "publishedAt": "2024-08-04T17:05:52Z",
+            "content": "OpenAI has built a tool that could potentially catch students who cheat by asking ChatGPT to write their assignments but according to The Wall Street Journal, the company is debating whether to actua… [+1946 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Warren Buffet's Berkshire Hathaway sells half its Apple stock",
+            "description": "Warren Buffett's Berkshire Hathaway cut its Apple holding by around half, to $84.2 billion, according to an SEC filing.  While Apple remains the firm's...",
+            "url": "https://techcrunch.com/2024/08/03/warren-buffets-berkshire-hathaway-sells-half-its-apple-stock/",
+            "urlToImage": "https://media.zenfs.com/en/techcrunch_350/5c7768c4d9fd086ebc5d4ec6705dcc20",
+            "publishedAt": "2024-08-03T20:15:36Z",
+            "content": "Warren Buffett's Berkshire Hathaway cut its Apple holding by around half, to $84.2 billion, according to an SEC filing.\r\nWhile Apple remains the firm's largest stock holding by far, Buffett had alrea… [+814 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "When a big company comes after a hot startup, it’s not a slam dunk decision to sell",
+            "description": "Rumors first surfaced last month that Google was going after cloud security startup Wiz and a $23 billion offer was on the table, the most lucrative offer...",
+            "url": "https://techcrunch.com/2024/08/03/when-a-big-company-comes-after-a-hot-startup-its-not-a-slam-dunk-decision-to-sell/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.hN3z.Cy.DbGwO1sI9QXdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/019186809e414c5c5a03e763cb0a9c71",
+            "publishedAt": "2024-08-03T19:00:00Z",
+            "content": "Rumors first surfaced last month that Google was going after cloud security startup Wiz and a $23 billion offer was on the table, the most lucrative offer ever made for a startup. Before the deal eve… [+5330 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Trade My Spin is building a business around used Peloton equipment | TechCrunch",
+            "description": "Trade My Spin has pieced together a logistics network capable of offering same or next day delivery in most major cities in the continental U.S.",
+            "url": "https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/Peloton-Bike-Lifestyle-04.jpg?resize=1200,859",
+            "publishedAt": "2024-08-03T17:04:04Z",
+            "content": "Peloton had one of the most turbulent half decades in tech. The home fitness firm experienced some of the industrys highest highs and lowest lows in dizzying succession. Its the story of buzzy startu… [+6147 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders",
+            "description": "Investors are assisting startup founders earlier than ever in an effort to help them bridge the first climate tech valley of death.",
+            "url": "https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/university-energy-research.jpg?resize=1200,675",
+            "publishedAt": "2024-08-03T15:02:22Z",
+            "content": "The humble garage is so steeped in Silicon Valley lore its almost cliché. Yet thats exactly how Caleb Boyd and Kevin Bush started Molten Industries: in the garage of the Stanford professors on-campus… [+8770 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "DSA vs. DMA: How Europe’s twin digital regulations are hitting Big Tech",
+            "description": "While both the DSA and DMA aim to achieve distinct things, they are best understood as a joint response to Big Tech's market power.\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+            "url": "https://techcrunch.com/2024/08/03/dsa-vs-dma-how-europes-twin-digital-regulations-are-hitting-big-tech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-134548626.jpg?resize=1200,807",
+            "publishedAt": "2024-08-03T13:00:00Z",
+            "content": "It’s no accident that the European Union’s Digital Services Act and Digital Markets Act have such similar-sounding names: They were conceived together and, at the end of 2020, proposed in unison as a… [+16984 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "How the theft of 40M UK voter register records was entirely preventable | TechCrunch",
+            "description": "A scathing rebuke by the U.K. data protection watchdog reveals what led to the compromise of tens of millions of U.K. voters' information.",
+            "url": "https://techcrunch.com/2024/08/02/how-the-theft-of-40-million-uk-voter-register-records-was-entirely-preventable/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/polling-station-dog-electoral-commision.jpg?resize=1200,800",
+            "publishedAt": "2024-08-03T05:07:14Z",
+            "content": "A cyberattack on the U.K. Electoral Commission that resulted in the data breach of voter register records on 40 million people was entirely preventable had the organization used basic security measur… [+8722 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Terraform Labs co-founder and crypto fugitive Do Kwon set for extradition to South Korea | TechCrunch",
+            "description": "The ruling confirmed an earlier decision in April from the High Court of Podgorica which rejected a request to extradite the crypto fugitive to the United States.",
+            "url": "https://techcrunch.com/2024/08/02/terraform-labs-co-founder-and-crypto-fugitive-do-kwon-set-for-extradition-to-south-korea/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/do-kwon-extradition-to-south-korea.jpg?resize=1200,798",
+            "publishedAt": "2024-08-03T03:19:05Z",
+            "content": "The Appellate Court of Montenegro ruled on Thursday that Terraform Labs co-founder Do Kwon should be returned to his home country, South Korea. The ruling confirmed an earlier decision in April from … [+2465 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "FTC and Justice Department sue TikTok over alleged child privacy violations",
+            "description": "The U.S. Federal Trade Commission (FTC) and the Justice Department are suing TikTok and ByteDance, TikTok’s parent company, with violating the Children’s Online Privacy Protection Act (COPPA), a law that requires digital platforms to notify and obtain parents…",
+            "url": "https://techcrunch.com/2024/08/02/ftc-and-justice-department-sue-tiktok-over-alleged-child-privacy-violations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?resize=1200,675",
+            "publishedAt": "2024-08-02T20:12:22Z",
+            "content": "The U.S. Federal Trade Commission (FTC) and the Justice Department are suing TikTok and ByteDance, TikTok’s parent company, with violating the Childrens Online Privacy Protection Act (COPPA), a law t… [+3029 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Marina Temkin",
+            "title": "Acquiring AI talent wholesale | TechCrunch",
+            "description": "Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups.  This week we are looking at acquisitions of",
+            "url": "https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1249004233.jpg?resize=1200,800",
+            "publishedAt": "2024-08-02T18:17:50Z",
+            "content": "Welcome to Startups Weekly your weekly recap of everything you cant miss from the world of startups. \r\nThis week we are looking at acquisitions of small startups, two new unicorns, wearable AI device… [+5431 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Moes",
+            "title": "Monthly Welcome Session",
+            "description": "Monthly Welcome Sessionthenextweb.com",
+            "url": "https://thenextweb.com/spaces/events/monthly-welcome-session",
+            "urlToImage": "https://s3.eu-west-1.amazonaws.com/tnw.events/hardfork-2018/uploads/visuals/Welcome-Session_June_2024-07-25-161941_quhd.jpg",
+            "publishedAt": "2024-08-02T17:50:41Z",
+            "content": "Our curated events calendar welcomes industry veterans alongside fast-growing startups. Connect with Google, Salesforce, Amazon, and over 50 startups in residence."
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Cloud infrastructure revenue approached $80 billion this quarter | TechCrunch",
+            "description": "Cloud infrastructure revenue approached $80 billion this quarter | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2024/08/02/cloud-infrastructure-revenue-approached-80-billion-this-quarter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1486318910.jpg?resize=1200,776",
+            "publishedAt": "2024-08-02T17:49:54Z",
+            "content": "The cloud infrastructure market has put the doldrums of 2023 firmly behind it with another big quarter. Revenue continues to grow at a brisk pace, fueled by interest in AI. Synergy Research reports r… [+3519 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Pharma giant Cencora is alerting millions about its data breach | TechCrunch",
+            "description": "The pharma giant won't say how many patients were affected by its February data breach. A count by TechCrunch confirms that over a million people are affected.",
+            "url": "https://techcrunch.com/2024/08/02/pharma-giant-cencora-is-alerting-millions-about-its-data-breach/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/cencora-data-breach-millions.jpg?resize=1200,776",
+            "publishedAt": "2024-08-02T15:35:58Z",
+            "content": "Cencora has so far notified over a million people around the U.S. that their personal and protected health information was compromised in a data breach earlier this year, TechCrunch has found.\r\nThe p… [+3570 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Death from overwork: AI app pitches solution to Japan’s ‘karoshi’ problem",
+            "description": "It’s Friday, and you know what that means! That’s right — it’s time to talk about working yourself to death. It’s a fate we could all face. Take your humble writer, forced to slave away his Friday at a battered keyboard, squeezing out my last words like a lem…",
+            "url": "https://thenextweb.com/news/death-from-overwork-ai-app-pitches-solution-to-japans-karoshi-problem",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FUntitled-design.jpg&signature=6a5591d22f441f03647c7fce08e5f950",
+            "publishedAt": "2024-08-02T14:42:38Z",
+            "content": "Its Friday, and you know what that means! Thats right its time to talk about working yourself to death.\r\nIts a fate we could all face. Take your humble writer, forced to slave away his Friday at a ba… [+2066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "1 million signatures could make killing video games illegal in the EU",
+            "description": "A new European Citizens’ Initiative has launched to try and make it illegal for game publishers to render games useless to players. Should it succeed in getting 1 million signatures, the European Commission will have to consider making it law. One of the most…",
+            "url": "https://thenextweb.com/news/1-million-signatures-killing-games-illegal-eu",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FTheCrew.jpeg&signature=8e24ac08bfb2bca893c8995c733e4976",
+            "publishedAt": "2024-08-02T12:41:49Z",
+            "content": "A new European Citizens Initiative has launched to try and make it illegal for game publishers to render games useless to players. Should it succeed in getting 1 million signatures, the European Comm… [+2599 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Rediff, once a pioneer of internet services in India, sells majority stake for $3M | TechCrunch",
+            "description": "Payments infrastructure firm Infibeam Avenues has acquired a majority 54% stake in Rediff.com for up to $3 million, a dramatic twist of fate for the Infibeam Avenues has acquired a majority 54% stake in Rediff.com for up to $3 million.",
+            "url": "https://techcrunch.com/2024/08/02/rediff-once-a-pioneer-of-internet-services-in-india-sells-majority-stake-for-3m/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/rediff.jpg?resize=1200,646",
+            "publishedAt": "2024-08-02T11:09:51Z",
+            "content": "Payments infrastructure firm Infibeam Avenues has acquired a majority 54% stake in Rediff.com for up to $3 million, a dramatic twist of fate for the 28-year-old business that was the first Indian int… [+1151 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Andrea Hak",
+            "title": "How the Netherlands became a target for cyber espionage — and why Europe should be worried",
+            "description": "The thought of espionage usually conjures quirky high-end gadgets, like umbrellas that turn into lasers and x-ray glasses, misty morning clandestine meetings, or high-speed boat chases in exotic locations and elaborate disguises. Today, the reality might be m…",
+            "url": "https://thenextweb.com/news/how-the-netherlands-target-cyber-espionage-europe-worried",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F08%2FDesigner-1.jpeg&signature=70d748c0ed94f43ea6f5c8d0dbb4d6c5",
+            "publishedAt": "2024-08-02T08:20:25Z",
+            "content": "The thought of espionage usually conjures quirky high-end gadgets, like umbrellas that turn into lasers and x-ray glasses, misty morning clandestine meetings, or high-speed boat chases in exotic loca… [+10343 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "EU AI Act enters into force, sets global standard for AI governance",
+            "description": "The European Union’s AI Act entered into force yesterday. It is the world’s first comprehensive regulation for artificial intelligence. First agreed upon in December 2023, the law is applying a risk-based approach. The strictest measures only apply to “high-r…",
+            "url": "https://thenextweb.com/news/eu-ai-act-enters-into-force-sets-global-standard-for-ai-governance",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F11%2FUntitled-design-20-1.jpg&signature=0a85f6404eab8efbd496362580d03e49",
+            "publishedAt": "2024-08-02T07:22:50Z",
+            "content": "The European Unions AI Act entered into force yesterday. It is the worlds first comprehensive regulation for artificial intelligence.\r\nFirst agreed upon in December 2023, the law is applying a risk-b… [+2409 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Cody Corrall",
+            "title": "A comprehensive list of 2024 tech layoffs | TechCrunch",
+            "description": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.",
+            "url": "https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs-e1684946575831.jpg?w=1200",
+            "publishedAt": "2024-08-01T23:55:16Z",
+            "content": "The tech layoff wave is still going strong in 2024. Following significant workforce reductions in 2022 and 2023, this year has already seen 60,000 job cuts across 254 companies, according to independ… [+27522 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Intel to lay off 15,000 employees",
+            "description": "Intel announced it would layoff more than 15% of its staff, or 15,000 employees, in a memo to employees on Thursday.  \"Our revenues have not grown as...",
+            "url": "https://techcrunch.com/2024/08/01/intel-to-lay-off-15000-employees/",
+            "urlToImage": "https://media.zenfs.com/en/techcrunch_350/2e4e0d1520b589480e461dcf0def99e7",
+            "publishedAt": "2024-08-01T23:05:02Z",
+            "content": "Intel announced it would layoff more than 15% of its staff, or 15,000 employees, in a memo to employees on Thursday. The massive headcount is part of a large plan to reduce spending by $10 billion in… [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "iPad sales help bail out Apple amid a continued iPhone slide",
+            "description": "In spite of a drop for the quarter, iPhone remained Apple’s most important category by a wide margin.\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+            "url": "https://techcrunch.com/2024/08/01/ipad-sales-help-bail-out-apple-amid-a-continued-iphone-slide/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/wwdc-2021-tim-cook-screens-e1623094107182.jpg?resize=1200,623",
+            "publishedAt": "2024-08-01T21:31:50Z",
+            "content": "Apple on Thursday announced that it its third-quarter financials beat Wall Street expectations, as its overall revenue ticked up 5%. iPad, which had languished in recent years, saw the biggest catego… [+2421 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "UK startup accuses Google of ‘predatory conduct’ over withdrawal of Gmail API",
+            "description": "Google has been accused of exploiting a regulatory gap to terminate a startup’s access to the Gmail API. London-based Gener8 said the API is “critical” to its business. The company offers people control of the data that the likes of Gmail harvest. Users can t…",
+            "url": "https://thenextweb.com/news/google-predatory-conduct-withdraws-gener8-gmail-api",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F11%2F49424155377_d34f63ee90_k.jpg&signature=1762dd211dc2948b4478682471b230f1",
+            "publishedAt": "2024-08-01T18:44:06Z",
+            "content": "Google has been accused of exploiting a regulatory gap to terminate a startups access to the Gmail API.\r\nLondon-based Gener8 said the API is critical to its business. The company offers people contro… [+3721 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Szkutak",
+            "title": "Sequoia-backed Knowde raises Series C at a valuation cut",
+            "description": "Knowde, an online marketplace for chemicals and polymers, just closed on a Series C round, TechCrunch has exclusively learned.  The round included new...",
+            "url": "https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dDkiAMiNU5cV9u9DGdUvTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/techcrunch_350/9e4cd5f39817f41c2501defcfb9533ba",
+            "publishedAt": "2024-08-01T17:03:56Z",
+            "content": "Knowde, an online marketplace for chemicals and polymers, just closed on a Series C round, TechCrunch has exclusively learned.\r\nThe San Jose-based startup raised $60 million in a round that values it… [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Twitter disappears from Mac App Store",
+            "description": "X (formerly Twitter) can no longer be accessed in the Mac App Store, suggesting that it has been officially delisted.  Searches for both “Twitter” and “X” on Apple’s platform no longer surface the app. The URL no longer works, either. Instead, it displays a p…",
+            "url": "https://techcrunch.com/2024/08/01/twitter-app-mac-store-2024/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
+            "publishedAt": "2024-08-01T16:32:04Z",
+            "content": "X (formerly Twitter) can no longer be accessed in the Mac App Store, suggesting that it has been officially delisted. \r\nSearches for both Twitter and X on Apple’s platform no longer surface the app. … [+1017 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend",
+            "description": "When Xiaoyin Qu was growing up in China, she was obsessed with learning how to build paper airplanes that could do flips in the air. Her parents, though, didn’t have the aerodynamic expertise to support her newfound passion, and her teachers were too overwhel…",
+            "url": "https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/Iphone3-7.jpg?resize=1200,582",
+            "publishedAt": "2024-08-01T16:00:00Z",
+            "content": "When Xiaoyin Qu was growing up in China, she was obsessed with learning how to build paper airplanes that could do flips in the air. Her parents, though, didnt have the aerodynamic expertise to suppo… [+9352 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Boeing bleeds another $125M on Starliner program, bringing total losses to $1.6B | TechCrunch",
+            "description": "Boeing bleeds another $125M on Starliner program, bringing total losses to $1.6B | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2024/08/01/boeing-bleeds-another-125m-on-starliner-program-bringing-total-losses-to-1-6b/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/boeing-starliner-docked-to-iss-e1718849214277.webp?resize=1200,816",
+            "publishedAt": "2024-08-01T15:22:47Z",
+            "content": "Boeing has lost another $125 million on its Starliner astronaut capsule program due to delays in its first crewed flight test, which was supposed to last just eight days and has now been on orbit for… [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "Google Cloud expands its database portfolio with new AI capabilities",
+            "description": "Google is hosting a version of its Cloud Next conference in Tokyo this week, and it's putting the focus squarely on tweaking its databases for AI workloads (...",
+            "url": "https://techcrunch.com/2024/08/01/google-cloud-expands-its-database-portfolio-with-new-ai-capabilities/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/437aCChkPQOANr54xS4Kqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/fabab90ffd64176857fe6b2b1645af92",
+            "publishedAt": "2024-08-01T15:00:00Z",
+            "content": "Google is hosting a version of its Cloud Next conference in Tokyo this week, and it's putting the focus squarely on tweaking its databases for AI workloads (because at this point in 2024, AI is the o… [+4231 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups",
+            "description": "Google Cloud is giving Y Combinator startups access to a dedicated, subsidized cluster of Nvidia graphics processing units and Google tensor processing units...",
+            "url": "https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uLTKgr8UdIhzAzOMyBR6XQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjE-/https://media.zenfs.com/en/techcrunch_350/7894cbc698f26db4920dacc54fcf57ff",
+            "publishedAt": "2024-08-01T13:00:00Z",
+            "content": "Google Cloud is giving Y Combinator startups access to a dedicated, subsidized cluster of Nvidia graphics processing units and Google tensor processing units to build AI models. It's part of Google C… [+2756 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "UK chip incubator startups secure over £10M in funding",
+            "description": "Twelve semiconductor startups taking part in the UK’s ChipStart scheme have raised over £10mn in funding from private investors and grants, the British government announced today. Launched in October 2023, ChipStart is an incubator programme. It aims to provi…",
+            "url": "https://thenextweb.com/news/uk-chip-incubator-startups-funding",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F05%2FUntitled-design-65.jpg&signature=720bc7fc84ff3976df8474d79fda0554",
+            "publishedAt": "2024-08-01T10:33:24Z",
+            "content": "Twelve semiconductor startups taking part in the UKs ChipStart scheme have raised over £10mn in funding from private investors and grants, the British government announced today.\r\nLaunched in October… [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Zuckerberg says Meta will need 10x more computing power to train Llama 4 than Llama 3 | TechCrunch",
+            "description": "“The amount of computing needed to train Llama 4 will likely be almost 10x more than what we used to train Llama 3,” Zuckerberg said.",
+            "url": "https://techcrunch.com/2024/08/01/zuckerberg-says-meta-will-need-10x-more-computing-power-to-train-llama-4-than-llama-3/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200",
+            "publishedAt": "2024-08-01T07:58:36Z",
+            "content": "Meta, which develops one of the biggest foundational open-source large language models, Llama, believes it will need significantly more computing power to train models in the future.\r\nMark Zuckerberg… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Founder behind social media app IRL charged with fraud | TechCrunch",
+            "description": "While venture capitalists and the rest of the technorati are off on holiday or attending the Paris Olympics, the U.S. Securities and Exchange Commission",
+            "url": "https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/Abe-Shafi-IRL.jpeg?resize=991,1200",
+            "publishedAt": "2024-08-01T02:22:46Z",
+            "content": "While venture capitalists and the rest of the technorati are off on holiday or attending the Paris Olympics, the U.S. Securities and Exchange Commission and its staff attorneys are keeping busy this … [+3156 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "AI startups ramp up federal lobbying efforts",
+            "description": "AI lobbying at the U.S. federal level is intensifying in the midst of a continued generative AI boom and an election year that could influence future AI...",
+            "url": "https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sFZb2RlAcSzJNvQX9nThPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/bdd8545574b7794e8ec4f8bbcfabf39c",
+            "publishedAt": "2024-07-31T20:22:27Z",
+            "content": "AI lobbying at the U.S. federal level is intensifying in the midst of a continued generative AI boom and an election year that could influence future AI regulation.\r\nNew data from OpenSecrets, a nonp… [+4587 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Copyright Office tells Congress: 'Urgent need' to outlaw AI-powered impersonation",
+            "description": "The U.S. Copyright Office has issued the first part of a report on how AI may affect its domain, and its first recommendation out of the gate is: we need a...",
+            "url": "https://techcrunch.com/2024/07/31/copyright-office-tells-congress-urgent-need-to-outlaw-ai-powered-impersonation/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/giHnK0yoX1QZVcztykvDVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjM-/https://media.zenfs.com/en/techcrunch_350/40c623c5e74a75bd105884f3809c3ff9",
+            "publishedAt": "2024-07-31T19:35:17Z",
+            "content": "The U.S. Copyright Office has issued the first part of a report on how AI may affect its domain, and its first recommendation out of the gate is: we need a new law right away to define and combat AI-… [+3132 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "How to enable Apple Intelligence on your iPhone",
+            "description": "If you are on the developer beta, you can only use Apple Intelligence features if your language is set to U.S. English and region is set to U.S.\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+            "url": "https://techcrunch.com/2024/07/31/how-to-enable-apple-intelligence-on-your-iphone/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/wwdc24-Apple-intelligence-AI-for-the-rest-of-us.jpg?resize=1200,675",
+            "publishedAt": "2024-07-31T17:32:40Z",
+            "content": "Apple is finally releasing some of the Apple Intelligence features it announced at its Worldwide Developer Conference in June.\r\nHowever, the rollout is currently restricted to developer beta versions… [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Google DeepMind launches 2B parameter Gemma 2 model",
+            "description": "Google DeepMind announced today the release of the 2 billion (2B) parameter version of Gemma 2, the second generation of its Gemma AI models. First launched in February this year, Gemma is a family of lightweight, text-to-text open models designed for develop…",
+            "url": "https://thenextweb.com/news/google-deepmind-2b-parameter-gemma-2-model",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FUntitled-design-14-1.jpg&signature=774b47b7a0d64cdc01c9fcaf09fdc49e",
+            "publishedAt": "2024-07-31T16:00:12Z",
+            "content": "Google DeepMind announced today the release of the 2 billion (2B) parameter version of Gemma 2, the second generation of its Gemma AI models.\r\nFirst launched in February this year, Gemma is a family … [+1730 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Bending Spoons acquires file transfer service WeTransfer",
+            "description": "Italy-based company Bending Spoons, which owns apps such as Evernote and Meetup, said today it has acquired file transfer service WeTranfer. WeTransfer CEO, Alexandar Vassilev, said that in the last decade the platform development resulted into 600,000 subscr…",
+            "url": "https://techcrunch.com/2024/07/31/bending-spoons-acquires-file-transfer-service-wetransfer/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/Bending-Spoons_CEO-_-cofounder_Luca-Ferrari_3-e1707994418889.webp?w=1024",
+            "publishedAt": "2024-07-31T15:45:03Z",
+            "content": "Italy-based company Bending Spoons, which owns apps such as Evernote and Meetup, said today it has acquired file transfer service WeTranfer.\r\nWeTransfer CEO, Alexandar Vassilev, said that in the last… [+1045 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "TechCrunch Events",
+            "title": "Synctera, Unit, and Treasury Prime execs discuss the future of BaaS at TechCrunch Disrupt 2024",
+            "description": "The serious, long-term negative impact of the bankruptcy of banking-as-a-service (BaaS) fintech Synapse will be significant “on all of fintech, especially...",
+            "url": "https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.qEctBTgarSMQ4evDoEDDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/b37edfbb4350b02ce5a0d3476e666581",
+            "publishedAt": "2024-07-31T15:00:00Z",
+            "content": "The serious, long-term negative impact of the bankruptcy of banking-as-a-service (BaaS) fintech Synapse will be significant on all of fintech, especially consumer-facing services, one observer has sa… [+1116 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Tezi is building an AI agent for hiring managers | TechCrunch",
+            "description": "Tezi, an early stage startup is trying to build an AI agent for hiring managers to automate the recruiting workflow up to the interview.",
+            "url": "https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1093325226-1.jpg?resize=1200,748",
+            "publishedAt": "2024-07-31T14:15:02Z",
+            "content": "AI agents are all the rage right now, and Tezi, an early stage startup is working on one to help HR teams find the perfect candidates for a job opening. The startup claims this bot will sift through … [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Szkutak",
+            "title": "Leaf helps farms decipher the troves of data they generate | TechCrunch",
+            "description": "Leaf is cleaning up unstructured farm data and loading it into an API so its customers can better build off the information.",
+            "url": "https://techcrunch.com/2024/07/31/leaf-helps-farms-decipher-the-troves-of-data-they-generate/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/bailey_headshot_2020-11.jpg?resize=1200,846",
+            "publishedAt": "2024-07-31T13:07:59Z",
+            "content": "Farms produce a lot of data. From machines to irrigation systems, farms generate a lot of information that could be helpful to both them and the companies that serve them. Traditionally this data has… [+3870 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "EU backs 15 startups to fight online misinformation with blockchain",
+            "description": "The EU has awarded €1.8mn to 15 startups to help tackle online misinformation, fraud, and fake identities with blockchain-based technologies. The grant funding is part of the NGI TrustChain initiative, which focuses on building a more decentralised, trustwort…",
+            "url": "https://thenextweb.com/news/eu-15-startups-online-misinformation-blockchain",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FUntitled-design-13-1.jpg&signature=e62069ce01ab7fbd226a9d9e495dcc29",
+            "publishedAt": "2024-07-31T12:55:45Z",
+            "content": "The EU has awarded 1.8mn to 15 startups to help tackle online misinformation, fraud, and fake identities with blockchain-based technologies.\r\nThe grant funding is part of the NGI TrustChain initiativ… [+3789 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Automation plans for planes are ‘dangerous gamble,’ EU pilots warn",
+            "description": "A push for single-pilot planes is a “dangerous gamble,” a leading aviation union has warned. The European Cockpit Association (ECA) sounded the alarm over plans to automate commercial flights. Aircraft makers want software to support a new single-pilot model.…",
+            "url": "https://thenextweb.com/news/automation-for-single-pilot-planes-sparks-fears",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FUntitled-design-1-2.jpg&signature=6430061c72bbb096f8a3b46e20be88a5",
+            "publishedAt": "2024-07-31T12:08:26Z",
+            "content": "A push for single-pilot planes is a dangerous gamble, a leading aviation union has warned.\r\nThe European Cockpit Association (ECA) sounded the alarm over plans to automate commercial flights.\r\nAircra… [+3743 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Threads now highlights relevant trending topics above posts",
+            "description": "Threads users in the U.S. can now see a label that highlights related trending topics above posts.\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+            "url": "https://techcrunch.com/2024/07/31/threads-now-highlights-relevant-trending-topics-above-posts/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/Threads-trending-topics-tool.jpg?resize=1200,675",
+            "publishedAt": "2024-07-31T11:04:16Z",
+            "content": "Threads has made it easier for people to explore trending topics on the platform.\r\nInstagram head Adam Mosseri said Tuesday that users in the U.S. can now see a label that highlights related trending… [+984 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Andrii Degeler",
+            "title": "TNW Podcast: IKEA’s Parag Parekh on digital ethics; €100B for AI research in Europe",
+            "description": "Welcome to the new episode of the TNW Podcast — the show where we discuss the latest developments in the European technology ecosystem and feature interviews with some of the most interesting people in the industry. In today’s episode, Linnea and Andrii talk …",
+            "url": "https://thenextweb.com/news/podcast-ikea-parag-parekh-digital-ethics",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F06%2Ftnw-podcast-feat-gimp.jpg&signature=f2f8403a596c92e0062e2c007746c222",
+            "publishedAt": "2024-07-31T10:26:39Z",
+            "content": "Welcome to the new episode of the TNW Podcast the show where we discuss the latest developments in the European technology ecosystem and feature interviews with some of the most interesting people in… [+716 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Jeremy Bradley",
+            "title": "Building a nurturing ecosystem in deep tech: collaboration over proprietary innovation",
+            "description": "The potential for deep tech to reshape industries from healthcare to climate science is immense. Yet, harnessing this potential requires more than just breakthroughs in isolated silos; it necessitates a nurturing ecosystem where collaboration and knowledge sh…",
+            "url": "https://thenextweb.com/news/nurturing-deep-tech-ecosystem-collaboration-over-proprietary-innovation",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FDeeptechecosystem-e1722418362912.jpg&signature=ab7c0f00cb962a2f1f8c3e54e6f71ded",
+            "publishedAt": "2024-07-31T09:47:52Z",
+            "content": "The potential for deep tech to reshape industries from healthcare to climate science is immense. Yet, harnessing this potential requires more than just breakthroughs in isolated silos; it necessitate… [+12064 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Bumble and Hinge allowed stalkers to pinpoint users’ locations down to 2 meters, researchers say | TechCrunch",
+            "description": "Badoo, Bumble, Grindr, happn, Hinge and Hily all had the same vulnerability that could have helped a malicious user to identify the near-exact location of another user, according to the researchers.",
+            "url": "https://techcrunch.com/2024/07/31/bumble-and-hinge-allowed-stalkers-to-pinpoint-users-locations-down-to-2-meters-researchers-say/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/bumble-app.jpg?resize=1200,800",
+            "publishedAt": "2024-07-31T08:06:54Z",
+            "content": "A group of researchers said they found that vulnerabilities in the design of some dating apps, including the popular Bumble and Hinge, allowed malicious users or stalkers to pinpoint the location of … [+5264 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Maxwell Zeff",
+            "title": "OpenAI endorses Senate bills that could shape America's AI policy",
+            "description": "A lot of AI bills are flying around Congress these days, and OpenAI is throwing its weight behind some of them.  OpenAI endorsed three Senate bills on...",
+            "url": "https://techcrunch.com/2024/07/30/openai-endorses-senate-bills-that-could-shape-americas-ai-policy/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E4wxoqnYk2GRIrdYN8fwmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTg-/https://media.zenfs.com/en/techcrunch_350/1e86651d2fdf57d119ad8668f0871438",
+            "publishedAt": "2024-07-31T03:43:38Z",
+            "content": "A lot of AI bills are flying around Congress these days, and OpenAI is throwing its weight behind some of them.\r\nOpenAI endorsed three Senate bills on Tuesday which could shape the federal government… [+2361 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Lineaje raises $20M to help organizations combat software supply chain threats",
+            "description": "A 2024 report by the Ponemon Institute found that over half of organizations have experienced a software supply chain attack, with 54% having experienced one...",
+            "url": "https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xcHQMQCwj8KqXmSyu7Tk.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/techcrunch_350/a3d7cae916cd7424a6d0518685ca1a78",
+            "publishedAt": "2024-07-30T23:35:51Z",
+            "content": "The software supply chain faces threats from all sides. A 2024 report by the Ponemon Institute found that over half of organizations have experienced a software supply chain attack, with 54% having e… [+3579 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": null,
+            "description": "AI hardware is all the rage in startup land -- though receptions have thus far been mixed. Two notable examples, Rabbit and Humane, released devices to",
+            "url": "https://techcrunch.com/2024/07/30/friend-is-an-ai-companion-backed-by-founders-of-solana-perplexity-and-zfellows/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/Friend-AI-hardware.jpg?resize=1200,675",
+            "publishedAt": "2024-07-30T21:46:33Z",
+            "content": "AI hardware is all the rage in startup land — though receptions have thus far been mixed. Two notable examples, Rabbit and Humane, released devices to disappointing results. a16z-backed Limitless and… [+2595 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Margaux MacColl",
+            "title": "The SEC has charged an a16z and Sequoia-backed crypto startup founder with fraud",
+            "description": "The founder of once-hyped crypto startup BitClout is facing trouble.  On Tuesday, the SEC charged BitClout founder Nader Al-Naji with fraud and unregistered ...",
+            "url": "https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3Z_J2oTUNmpsk89wp4KvjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://media.zenfs.com/en/techcrunch_350/9d91e966530b03d02681c7dcfe3b52f1",
+            "publishedAt": "2024-07-30T19:56:10Z",
+            "content": "The founder of once-hyped crypto startup BitClout is facing trouble. On Tuesday, the SEC charged BitClout founder Nader Al-Naji with fraud and unregistered offering of securities, claiming he used a … [+5128 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Google-Anthropic partnership raises AI competition fears in the UK",
+            "description": "Google’s partnership with GenAI startup Anthropic is raising eyebrows in the UK as the trend of big tech giants backing young AI companies continues. The Competitions and Markets Authority (CMA) said on Tuesday that it’s collecting information on whether the …",
+            "url": "https://thenextweb.com/news/google-anthropic-partnership-ai-competition-uk",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F07%2FUntitled-design-12-1.jpg&signature=242518dda4ecd8287fab8564a89924b2",
+            "publishedAt": "2024-07-30T19:12:13Z",
+            "content": "Googles partnership with GenAI startup Anthropic is raising eyebrows in the UK as the trend of big tech giants backing young AI companies continues.\r\nThe Competitions and Markets Authority (CMA) said… [+1795 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Controversial internet bill KOSA passed by Senate",
+            "description": "The Kids Online Safety Act (KOSA) has passed in the Senate after Majority Leader Chuck Schumer (D-NY) pushed the internet bill to a vote.  Proposed in 2022, ...",
+            "url": "https://techcrunch.com/2024/07/30/controversial-internet-bill-kosa-passed-by-senate/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sFZb2RlAcSzJNvQX9nThPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/bdd8545574b7794e8ec4f8bbcfabf39c",
+            "publishedAt": "2024-07-30T18:14:31Z",
+            "content": "The Kids Online Safety Act (KOSA) has passed in the Senate after Majority Leader Chuck Schumer (D-NY) pushed the internet bill to a vote.\r\nProposed in 2022, KOSA requires that online platforms take r… [+5515 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Spotify expands lyrics access for free users",
+            "description": "Back in May, Spotify quietly started putting lyrics behind a paywall, limiting free users to lyrics for three songs per month. The move was a bid to push more users to pay for the service. After receiving numerous complaints, the company is now expanding the …",
+            "url": "https://techcrunch.com/2024/07/30/spotify-expands-monthly-limit-lyrics-free-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop.jpg?resize=1200,675",
+            "publishedAt": "2024-07-30T17:50:03Z",
+            "content": "Back in May, Spotify quietly started putting lyrics behind a paywall, limiting free users to lyrics for three songs per month. The move was a bid to push more users to pay for the service.\r\nAfter rec… [+1254 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "Airtable acquihires onboarding startup Dopt for AI talent",
+            "description": "Airtable today announced that it has acquired Dopt, a startup  focused on helping other startups build product onboarding experiences for new users.  Earlier...",
+            "url": "https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v6VLef3zfeYFvyfKxr6t4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/eb36de1bd42566467b972cd8008ee2fa",
+            "publishedAt": "2024-07-30T16:30:00Z",
+            "content": "Airtable today announced that it has acquired Dopt, a startup focused on helping other startups build product onboarding experiences for new users.\r\nEarlier this year, Dopt introduced a number of fea… [+2430 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Siddhi Capital grabs $135M for Fund II to invest in consumer packaged goods startups",
+            "description": "When Siddhi Capital’s Melissa Facchina started working in her family’s juice manufacturing businesses at a young age, she got hooked on how to be an...",
+            "url": "https://techcrunch.com/2024/07/30/siddhi-capital-fund-2/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zbFs3o15wMiFwldYrqqlKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/f487586743b8d34a35115b37ad075f0e",
+            "publishedAt": "2024-07-30T13:05:00Z",
+            "content": "When Siddhi Capitals Melissa Facchina started working in her familys juice manufacturing businesses at a young age, she got hooked on how to be an efficient operator.\r\nAs she grew up, she saw how the… [+4048 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Fertility tracking app Flo Health raises $200M at a $1B+ valuation",
+            "description": "Femtech, or tech that leverages innovations in AI, smartphones and connected wearables to give women more insights into reproductive and menstrual health...",
+            "url": "https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ci3jnhoVO6Xkz_uU5d52Zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/7d915688859b65d94c3b28aa776b90a2",
+            "publishedAt": "2024-07-30T12:47:42Z",
+            "content": "Femtech, or tech that leverages innovations in AI, smartphones and connected wearables to give women more insights into reproductive and menstrual health, continues to gain momentum with users, and i… [+10625 chars]"
+        }
+    ]
+}
